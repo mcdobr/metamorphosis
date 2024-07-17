@@ -1,4 +1,4 @@
-package me.mircea.metamorphosis.service;
+package me.mircea.metamorphosis.streams.service;
 
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
