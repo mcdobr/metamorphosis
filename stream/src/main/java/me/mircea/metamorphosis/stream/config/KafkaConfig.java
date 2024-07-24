@@ -1,4 +1,4 @@
-package me.mircea.metamorphosis.streams.config;
+package me.mircea.metamorphosis.stream.config;
 
 import org.apache.kafka.common.serialization.Serdes;
 import org.springframework.beans.factory.annotation.Value;

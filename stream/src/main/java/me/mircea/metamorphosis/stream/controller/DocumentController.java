@@ -1,8 +1,8 @@
-package me.mircea.metamorphosis.streams.controller;
+package me.mircea.metamorphosis.stream.controller;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import me.mircea.metamorphosis.streams.service.WordCountService;
+import me.mircea.metamorphosis.stream.service.WordCountService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

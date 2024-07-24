@@ -1,4 +1,4 @@
-package me.mircea.metamorphosis.streams;
+package me.mircea.metamorphosis.stream;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

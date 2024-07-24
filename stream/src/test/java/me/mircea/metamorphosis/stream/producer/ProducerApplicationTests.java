@@ -1,4 +1,4 @@
-package me.mircea.metamorphosis.streams.producer;
+package me.mircea.metamorphosis.stream.producer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
